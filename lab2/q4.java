@@ -1,4 +1,4 @@
-package lab1;
+package lab2;
 // WAP to check whether a number is exactly divisible by 5 or not
 import java.util.Scanner;
 public class q4 {

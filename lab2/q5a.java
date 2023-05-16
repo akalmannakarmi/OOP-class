@@ -1,4 +1,4 @@
-package lab1;
+package lab2;
 // WAP to generate
 // 1 2 3 4 5 
 // 1 2 3 4

@@ -1,5 +1,5 @@
-package lab1;
-// WAP to check the createst among two number entered by user.
+package lab2;
+// WAP to check the greatest among two number entered by user.
 import java.util.Scanner;
 public class q1 {
     public static void main(String []args){

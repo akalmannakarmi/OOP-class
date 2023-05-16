@@ -1,4 +1,4 @@
-package lab1;
+package lab2;
 // WAP to check whether the given number is prime or not
 import java.util.Scanner;
 public class q3 {

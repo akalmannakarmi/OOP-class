@@ -1,5 +1,5 @@
-package lab1;
-// WAP to calcualte factorial of input number
+package lab2;
+// WAP to calculate factorial of input number
 import java.util.Scanner;
 public class q2 {
     public static void main(String []args) {
