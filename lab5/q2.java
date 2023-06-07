@@ -1,4 +1,5 @@
-
+// Create a class Circle & a data method to set the radius, another method to get area
+// of circle. Test a circle class creating a TestCircle class.
 
 class q2{
     public static void main(String []args) {

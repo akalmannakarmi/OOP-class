@@ -14,9 +14,7 @@ public class q1 {
             num = sc.nextInt();
             if(num<10000 && num>99999){
                 System.out.println("Needs to be 5 digits!");
-            }else{
-                break;
-            }
+            }else{break;}
         }
         int b=num;
         int a=0;
@@ -30,7 +28,5 @@ public class q1 {
         }else{
             System.out.println(a+" is not a palindrome");
         }
-
-
     }
 }

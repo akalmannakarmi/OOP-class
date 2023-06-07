@@ -1,3 +1,6 @@
+// Write a java program to create a rectangle class & print area and perimeter of the
+// rectangle.
+
 class q1{
     public static void main(String []args) {
         Rectangle r1 = new Rectangle(4, 4);
