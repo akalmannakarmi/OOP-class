@@ -2,10 +2,10 @@
 
 class q2{
     public static void main(String []args){
-        Rectangle r = new Rectangle(2,3);
-        Square s = new Square(2);
-        Circle c = new Circle(7);
-        Triangle t = new Triangle(4,9);
+        Base r = new Rectangle(2,3);
+        Base s = new Square(2);
+        Base c = new Circle(7);
+        Base t = new Triangle(4,9);
         System.out.println("Rectangle:"+r.area());
         System.out.println("Square:"+s.area());
         System.out.println("Circle:"+c.area());
