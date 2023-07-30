@@ -1,5 +1,5 @@
 package lab8;
-
+// Write a program to implement various methods of StringBuffer Class.
 import java.lang.String;
 public class q4 {
     public static void main(String[] args) {

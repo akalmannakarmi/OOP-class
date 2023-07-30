@@ -1,4 +1,6 @@
 package lab8;
+// Write a java program that handles the divide by zero exception.
+
 import java.util.Scanner;
 public class q1 {
     public static void main(String[] args) {

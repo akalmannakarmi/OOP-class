@@ -1,5 +1,6 @@
 package lab8;
-
+// Write a program to enter your first name & last name & print the full name in upper case
+// using string handling function.
 import java.util.Scanner;
 import java.lang.String;
 public class q2 {
